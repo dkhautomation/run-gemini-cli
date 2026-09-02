@@ -37,9 +37,9 @@
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@types/node": "^25.2.1",
     "husky": "^9.1.7",
-    "lint-staged": "^16.2.7",
+    "lint-staged": "^16.4.0",
     "prettier": "^3.7.4",
-    "tsx": "^4.21.0",
-    "vitest": "^4.0.18"
+    "tsx": "^4.23.13",
+    "vitest": "^4.1.0"
   }
 }
